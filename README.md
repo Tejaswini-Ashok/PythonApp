@@ -17,7 +17,7 @@ Creating a python app using Docker containers :
   
     This is a simple Python app that uses Flask to expose an HTTP web server on port 5000. (5000 is the default port for flask.) 
 
-2. Create and build the Docker image.
+2. Create ec2 instance, clone you repo to get your files instantly.
 
 3. Build the Docker image.
 
