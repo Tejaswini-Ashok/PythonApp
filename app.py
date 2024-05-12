@@ -2,7 +2,7 @@ from flask import Flask
 
 app = Flask(__name__)
 @app.route("/")
-def new1():
+def new():
     return "Hello !"
 
 if __name__=="__main__":
